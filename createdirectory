@@ -1,0 +1,6 @@
+!#/bin/bash
+
+sudo mkdir devops
+cd devops
+touch devops.txt
+cat devops.txt >> "hello world"
